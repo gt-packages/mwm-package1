@@ -1,6 +1,6 @@
 {
   "name": "mpr-package1",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "ISC",
   "main": "index.js",
   "scripts": {
