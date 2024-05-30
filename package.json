@@ -4,9 +4,10 @@
   "license": "ISC",
   "main": "index.js",
   "scripts": {
-    "release": "release-it"
+    "release": "dotenv release-it"
   },
   "devDependencies": {
+    "dotenv-cli": "^7.4.2",
     "release-it": "^17.3.0"
   }
 }
