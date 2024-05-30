@@ -1,8 +1,14 @@
 {
-  "name": "mpr-package1",
+  "name": "@gabortorma/mpr-package1",
   "version": "0.0.4",
   "license": "ISC",
+  "repository": {
+    "url": "git+ssh://git@github.com/GaborTorma/mpr-package1.git"
+  },
   "main": "index.js",
+  "publishConfig": {
+    "@gabortorma:registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "release": "dotenv release-it"
   },
