@@ -4,5 +4,9 @@
   "license": "ISC",
   "main": "index.js",
   "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^17.3.0"
   }
 }
