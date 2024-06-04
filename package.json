@@ -1,5 +1,6 @@
 {
   "name": "@gabortorma/mpr-package1",
+  "type": "module",
   "version": "0.0.8",
   "license": "ISC",
   "repository": {
