@@ -1,6 +1,6 @@
 {
   "name": "@gabortorma/mpr-package1",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "license": "ISC",
   "repository": {
     "url": "git+ssh://git@github.com/GaborTorma/mpr-package1.git"
