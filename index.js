@@ -1,3 +1,3 @@
 console.log('mpr-package1 loaded')
 
-export default 'mpr-package1'
+export default 'test-mpr-package1'
