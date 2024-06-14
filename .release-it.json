@@ -8,10 +8,10 @@
     "requireCommitsFail": false
   },
   "github": {
-    "web": true,
     "release": true
   },
   "npm": {
-    "publish": true
+    "publish": true,
+    "skipChecks": true
   }
 }
