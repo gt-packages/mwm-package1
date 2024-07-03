@@ -1,10 +1,10 @@
 {
-  "name": "@gt-packages/mpr-package1",
+  "name": "@gt-packages/mwm-package1",
   "type": "module",
   "version": "0.1.6",
   "license": "ISC",
   "repository": {
-    "url": "git+ssh://git@github.com/gt-packages/mpr-package1.git"
+    "url": "git+ssh://git@github.com/gt-packages/mwm-package1.git"
   },
   "main": "index.js",
   "scripts": {
